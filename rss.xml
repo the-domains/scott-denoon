@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scott DeNoon]]></title>
         <description><![CDATA[Scott DeNoon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scott-denoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:16:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 03:19:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-denoon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test title]]></title>
+            <description><![CDATA[<article><h1>Test title</h1><p>This is a test post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/909fae72-a603-4a66-b898-18a9b23344a7.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/909fae72-a603-4a66-b898-18a9b23344a7.jpg</link>
+            <guid isPermaLink="false">dbf9487f-6460-4144-aeaa-caf9c9c46a01</guid>
+            <pubDate>Wed, 20 Jul 2016 03:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hunter]]></title>
-            <description><![CDATA[<article><h1>Hunter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d103e7-1d28-4960-b205-d287c6338c80.png"></article>]]></description>
-            <link>undefinedhunter/index.html</link>
+            <description><![CDATA[<article><h1>Hunter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8009b5d2eec42d156d216d9194080d34f4204f4a.png"></article>]]></description>
+            <link>https://thegrid.ai/scott-denoon/hunter/index.html</link>
             <guid isPermaLink="false">26216485-2b3c-4af0-bfc7-fa801714eea8</guid>
             <pubDate>Wed, 09 Mar 2016 02:15:50 GMT</pubDate>
         </item>
